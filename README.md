@@ -13,7 +13,7 @@ TODO add 1 more
     <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6">
 </a>
 
-# Languages and Tools
+## Languages and Tools
 
 <div>
     <!--Java-->
@@ -53,7 +53,7 @@ TODO add 1 more
     <img alt="UNIX-like Operating Systems" height="35px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png">
 <div>
 
-# Learn next
+## Learn next
 
 <div>
     <!--Spring-->
