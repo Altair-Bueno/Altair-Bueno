@@ -1,5 +1,9 @@
 ## Hello, world!
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6">
+</a>
+
 I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
 
 - Backend first developer
@@ -9,9 +13,6 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
 <!--
 TODO add 1 more
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6">
-</a>
 
 ## Languages and Tools
 
