@@ -18,7 +18,7 @@ TODO add 1 more
 <div>
     <!--Java-->
     <a href="https://www.oracle.com/java/">
-        <img alt="Java" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+        <img alt="Java" height="35px" src=".github/resources/java-icon.svg">
     </a>
     <!--Rust-->
     <a href="https://www.rust-lang.org">
