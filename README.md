@@ -22,7 +22,7 @@ TODO add 1 more
     </a>
     <!--Rust-->
     <a href="https://www.rust-lang.org">
-        <img alt="Rust-lang" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
+        <img alt="Rust-lang" height="35px" src=".github/resources/rust-lang.png">
     </a>
     <!--Haskell-->
     <a href="https://www.haskell.org/">
@@ -44,13 +44,13 @@ TODO add 1 more
     </a>
     <!--Version Control-->
     <a href="https://github.com/">
-        <img alt="GitHub" height="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+        <img alt="GitHub" height="35px" src=".github/resources/github.png">
     </a>
     <a href="https://git-scm.com/">
-        <img alt="Git" height="35px" src="https://git-scm.com/images/logos/logomark-orange@2x.png">
+        <img alt="Git" height="35px" src=".github/resources/Git.png">
     </a>
     <!--UNIX-like-->
-    <img alt="UNIX-like Operating Systems" height="35px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png">
+    <img alt="UNIX-like Operating Systems" height="35px" src=".github/resources/unixtermpng.png">
 <div>
 
 ## Learn next
@@ -64,8 +64,9 @@ TODO add 1 more
     <a href="https://kubernetes.io/">
         <img alt="Kubernetes" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
     </a>
+    <!--Apache Kafka-->
     <a href="https://kafka.apache.org/">
-    <img alt="Apache Kafka" height="35px" src="https://apache.org/logos/res/kafka/kafka_highres.png">
+    <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
     </a>
     <!--TypeScript-->
     <a href="https://www.typescriptlang.org/">
