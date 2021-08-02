@@ -10,10 +10,10 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
 - Backend first developer
 - Fascinated by functional programming
 - Focused on building fast & reliable software
-
 <!--
 TODO add 1 more
 -->
+<br/>
 
 ## Languages and Tools
 
