@@ -30,9 +30,11 @@ TODO add 1 more
         <img alt="Rust-lang" height="35px" src=".github/resources/rust-lang.png">
     </a>
     <!--Haskell-->
+    <!-- Not that good with Haskell (yet)
     <a href="https://www.haskell.org/">
         <img alt="Haskell" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png">
     </a>
+    -->
     <!--Docker-->
     <a href="https://www.docker.com/">
         <img alt="Docker" height="35px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
