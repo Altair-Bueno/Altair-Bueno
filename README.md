@@ -53,6 +53,9 @@ TODO add 1 more
     <a href="https://git-scm.com/">
         <img alt="Git" height="35px" src=".github/resources/Git.png">
     </a>
+    <a href="https://www.conventionalcommits.org/">
+        <img alt="Conventional Commits" height="35px" src="https://avatars.githubusercontent.com/u/42154238?s=200&v=4">
+    </a>
     <!--UNIX-like-->
     <img alt="UNIX-like Operating Systems" height="35px" src=".github/resources/unixtermpng.png">
 <div>
