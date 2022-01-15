@@ -13,9 +13,7 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
 - Backend first developer
 - Fascinated by functional programming
 - Focused on building fast & reliable software
-<!--
-TODO add 1 more
--->
+<!--TODO add 1 more-->
 <br/>
 
 ## Languages and Tools
@@ -37,6 +35,10 @@ TODO add 1 more
     <a href="https://rocket.rs">
     <img alt="Rocket" height="35px" src=".github/resources/logo-boxed.png">
     </a>
+    <!--Python-->
+    <a href="https://www.python.org/">
+        <img alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    </a>
     <!--Docker-->
     <a href="https://www.docker.com/">
         <img alt="Docker" height="35px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
@@ -50,7 +52,7 @@ TODO add 1 more
     </a>
     <!--Visual Studio Code-->
     <a href="https://code.visualstudio.com/">
-        <img alt="Visual Studio Code" height="35px" src="https://code.visualstudio.com/assets/images/code-stable.png">
+        <img alt="Visual Studio Code" height="35px" src=".github/resources/code.png">
     </a>
     <!--Git-->
     <a href="https://github.com/">
@@ -63,6 +65,10 @@ TODO add 1 more
     <!--Conventional Commits-->
     <a href="https://www.conventionalcommits.org/">
         <img alt="Conventional Commits" height="35px" src="https://avatars.githubusercontent.com/u/42154238?s=200&v=4">
+    </a>
+    <!--Mustache-->
+    <a href="http://mustache.github.io/">
+        <img alt="Mustache" height="35px" src="https://avatars.githubusercontent.com/u/197655?s=200&v=4">
     </a>
     <!--UNIX like OS-->
     <img alt="UNIX-like Operating Systems" height="35px" src=".github/resources/unixtermpng.png">
@@ -83,9 +89,13 @@ TODO add 1 more
     <a href="https://kafka.apache.org/">
     <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
     </a>
-    <!--TypeScript-->
-    <a href="https://www.typescriptlang.org/">
-        <img alt="TypeScript" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+    <!--GraphQL-->
+    <a href="https://graphql.org/">
+    <img alt="GraphQL" height="35px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png">
+    </a>
+    <!--Lua-->
+    <a href="https://www.lua.org/">
+        <img alt="Lua" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
     </a>
     <!--Scala-->
     <a href="https://www.scala-lang.org/">
@@ -94,9 +104,5 @@ TODO add 1 more
     <!--Golang-->
     <a href="https://golang.org/">
         <img alt="Golang" height="35px" src=".github/resources/go.svg">
-    </a>
-    <!--Python-->
-    <a href="https://www.python.org/">
-        <img alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     </a>
 </div>
