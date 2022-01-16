@@ -31,6 +31,10 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <a href="https://www.rust-lang.org">
         <img alt="Rust-lang" height="35px" src=".github/resources/rust-lang.png">
     </a>
+    <!--Tokio-->
+    <a href="https://tokio.rs">
+        <img alt="Tokio Runtime" height="35px" src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4">
+    </a>
     <!--Rocket-->
     <a href="https://rocket.rs">
     <img alt="Rocket" height="35px" src=".github/resources/logo-boxed.png">
