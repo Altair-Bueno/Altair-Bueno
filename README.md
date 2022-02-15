@@ -19,14 +19,6 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
 ## Languages and Tools
 
 <div>
-    <!--Java-->
-    <a href="https://www.oracle.com/java/">
-        <img alt="Java" height="35px" src=".github/resources/java-icon.svg">
-    </a>
-    <!--Hibernate-->
-    <a href="https://hibernate.org/">
-        <img alt="Hibernate" height="35px" src=".github/resources/hibernate.svg">
-    </a>
     <!--Rust-->
     <a href="https://www.rust-lang.org">
         <img alt="Rust-lang" height="35px" src=".github/resources/rust-lang.png">
@@ -38,6 +30,18 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <!--Rocket-->
     <a href="https://rocket.rs">
     <img alt="Rocket" height="35px" src=".github/resources/logo-boxed.png">
+    </a>
+    <!--Yew-->
+    <a href="https://yew.rs/">
+    <img alt="Yew" height="35px" src="https://yew.rs/img/logo.png">
+    </a>
+    <!--Java-->
+    <a href="https://www.oracle.com/java/">
+        <img alt="Java" height="35px" src=".github/resources/java-icon.svg">
+    </a>
+    <!--Hibernate-->
+    <a href="https://hibernate.org/">
+        <img alt="Hibernate" height="35px" src=".github/resources/hibernate.svg">
     </a>
     <!--Python-->
     <a href="https://www.python.org/">
