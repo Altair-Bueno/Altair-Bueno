@@ -74,10 +74,6 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <a href="https://www.conventionalcommits.org/">
         <img alt="Conventional Commits" height="35px" src="https://avatars.githubusercontent.com/u/42154238?s=200&v=4">
     </a>
-    <!--Mustache-->
-    <a href="http://mustache.github.io/">
-        <img alt="Mustache" height="35px" src="https://avatars.githubusercontent.com/u/197655?s=200&v=4">
-    </a>
     <!--UNIX like OS-->
     <img alt="UNIX-like Operating Systems" height="35px" src=".github/resources/unixtermpng.png">
 <div>
@@ -101,9 +97,9 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <a href="https://graphql.org/">
     <img alt="GraphQL" height="35px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png">
     </a>
-    <!--Lua-->
-    <a href="https://www.lua.org/">
-        <img alt="Lua" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
+    <!--Hasura-->
+    <a href="https://hasura.io/">
+    <img alt = "Hasura" height="35px" src=".github/resources/hasura.svg">
     </a>
     <!--Scala-->
     <a href="https://www.scala-lang.org/">
