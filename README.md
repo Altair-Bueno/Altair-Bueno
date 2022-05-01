@@ -47,10 +47,6 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <a href="https://www.python.org/">
         <img alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     </a>
-    <!--Haskell-->
-    <a href="https://www.haskell.org/">
-        <img alt="Haskell" height="35px" src =".github/resources/haskell.png">
-    </a>
     <!--Docker-->
     <a href="https://www.docker.com/">
         <img alt="Docker" height="35px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
@@ -108,9 +104,5 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <!--Scala-->
     <a href="https://www.scala-lang.org/">
         <img alt="Scala-Lang" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
-    </a>
-    <!--Golang-->
-    <a href="https://golang.org/">
-        <img alt="Golang" height="35px" src=".github/resources/go.svg">
     </a>
 </div>
