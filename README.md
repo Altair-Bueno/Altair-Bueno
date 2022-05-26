@@ -43,6 +43,10 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <a href="https://hibernate.org/">
         <img alt="Hibernate" height="35px" src=".github/resources/hibernate.svg">
     </a>
+    <!--Spring-->
+    <a href="https://spring.io/">
+    <img alt="Spring" height="35px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico">
+    </a>
     <!--Python-->
     <a href="https://www.python.org/">
         <img alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -81,10 +85,6 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
 ## Learn next
 
 <div>
-    <!--Spring-->
-    <a href="https://spring.io/">
-    <img alt="Spring" height="35px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico">
-    </a>
     <!--Kubernetes-->
     <a href="https://kubernetes.io/">
         <img alt="Kubernetes" height="35px" src=".github/resources/kubernetes.svg">
