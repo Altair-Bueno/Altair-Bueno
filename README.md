@@ -13,7 +13,8 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
 - Backend first developer
 - Fascinated by functional programming
 - Focused on building fast & reliable software
-<!--TODO add 1 more-->
+- Interested in Microservices, Serverless and Distributed systems
+
 <br/>
 
 ## Languages and Tools
@@ -100,6 +101,10 @@ I'm Altair, a Software Engineering student at [UMA](https://www.uma.es/)
     <!--Hasura-->
     <a href="https://hasura.io/">
     <img alt = "Hasura" height="35px" src=".github/resources/hasura.svg">
+    </a>
+    <!--Elixir-->
+    <a href="https://elixir-lang.org/">
+        <img alt="Elixir-Lang" height="35px" src=".github/resources/elixir.png">
     </a>
     <!--Scala-->
     <a href="https://www.scala-lang.org/">
