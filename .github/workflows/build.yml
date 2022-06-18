@@ -1,0 +1,28 @@
+on:
+  push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install poetry
+        run: pipx install poetry
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'poetry'
+
+      - name: Install packages
+        run: make install
+      - name: Build files
+        run: make
+      - name: Upload changes
+        continue-on-error: true
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add --all
+          git commit -am "build: Updated README"
+          git push
