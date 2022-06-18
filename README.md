@@ -1,6 +1,3 @@
-The currently activated Python version 3.8.10 is not supported by the project (^3.10).
-Trying to find and use a compatible version. 
-Using python3 (3.10.5)
 ## Hello, world!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
