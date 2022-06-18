@@ -17,7 +17,7 @@ jobs:
       - name: Install packages
         run: make install
       - name: Build files
-        run: make
+        run: make clean build
       - name: Upload changes
         continue-on-error: true
         run: |
