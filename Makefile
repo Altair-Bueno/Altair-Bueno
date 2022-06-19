@@ -1,12 +1,15 @@
+DATA_FILE        = data.json
+MUSTACHE_CC      = poetry run chevron
+MUSTACHE_CCFLAGS = -w -d $(DATA_FILE)
+TARGET           = README.md
+
 .PHONY: install build clean
 
-build: README.md
-
+build: $(TARGET)
 clean:
-	rm README.md || true
-
+	rm -f $(TARGET)
 install:
 	poetry install
 
-README.md: README.md.mustache data.json
-	poetry run chevron -w -d data.json README.md.mustache > $@
+%: %.mustache $(DATA_FILE)
+	$(MUSTACHE_CC) $(MUSTACHE_CCFLAGS) $< > $@
