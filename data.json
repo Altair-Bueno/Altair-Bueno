@@ -57,6 +57,11 @@
       "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
     },
     {
+      "name": "TypeScript",
+      "link": "https://www.typescriptlang.org/",
+      "icon": ".github/resources/ts.svg"
+    },
+    {
       "name": "Docker",
       "link": "https://www.docker.com/",
       "icon": "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
