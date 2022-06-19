@@ -19,27 +19,27 @@
     {
       "name": "Rust",
       "link": "https://www.rust-lang.org",
-      "icon": ".github/resources/rust-lang.png"
+      "icon": ".github/resources/rust.png"
     },
     {
       "name": "Tokio",
       "link": "https://tokio.rs",
-      "icon": "https://avatars.githubusercontent.com/u/20248544?s=200"
+      "icon": ".github/resources/tokio.png"
     },
     {
       "name": "Rocket",
       "link": "https://rocket.rs",
-      "icon": ".github/resources/logo-boxed.png"
+      "icon": ".github/resources/rocket.png"
     },
     {
       "name": "Yew",
       "link": "https://yew.rs/",
-      "icon": "https://yew.rs/img/logo.png"
+      "icon": ".github/resources/yew.png"
     },
     {
       "name": "Java",
       "link": "https://www.oracle.com/java/",
-      "icon": ".github/resources/java-icon.svg"
+      "icon": ".github/resources/java.svg"
     },
     {
       "name": "Hibernate",
@@ -49,12 +49,12 @@
     {
       "name": "Spring",
       "link": "https://spring.io/",
-      "icon": "https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico"
+      "icon": ".github/resources/spring.ico"
     },
     {
       "name": "Python",
       "link": "https://www.python.org/",
-      "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+      "icon": ".github/resources/python.png"
     },
     {
       "name": "TypeScript",
@@ -64,12 +64,12 @@
     {
       "name": "Docker",
       "link": "https://www.docker.com/",
-      "icon": "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
+      "icon": ".github/resources/docker.png"
     },
     {
       "name": "JetBrains Tools",
       "link": "https://www.jetbrains.com",
-      "icon": "https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png"
+      "icon": ".github/resources/jetbrains.png"
     },
     {
       "name": "Visual Studio Code",
@@ -79,7 +79,7 @@
     {
       "name": "Git",
       "link": "https://git-scm.com/",
-      "icon": ".github/resources/Git.png"
+      "icon": ".github/resources/git.png"
     },
     {
       "name": "GitHub",
@@ -89,7 +89,7 @@
     {
       "name": "Conventional commits",
       "link": "https://www.conventionalcommits.org/",
-      "icon": "https://avatars.githubusercontent.com/u/42154238?s=200"
+      "icon": ".github/resources/conventional-commits.png"
     },
     {
       "name": "UNIX OS",
@@ -111,7 +111,7 @@
     {
       "name": "GraphQL",
       "link": "https://graphql.org/",
-      "icon": "https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png"
+      "icon": ".github/resources/graphql.png"
     },
     {
       "name": "Hasura",
@@ -126,7 +126,7 @@
     {
       "name": "Scala",
       "link": "https://www.scala-lang.org/",
-      "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"
+      "icon": ".github/resources/scala.png"
     }
   ]
 }
