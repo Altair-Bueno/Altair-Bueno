@@ -53,6 +53,10 @@ I'm Altair, a Software Engineering student at UMA
     <a href="https://www.python.org/">
       <img alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     </a>
+    <!--TypeScript-->
+    <a href="https://www.typescriptlang.org/">
+      <img alt="TypeScript" height="35px" src=".github/resources/ts.svg">
+    </a>
     <!--Docker-->
     <a href="https://www.docker.com/">
       <img alt="Docker" height="35px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
