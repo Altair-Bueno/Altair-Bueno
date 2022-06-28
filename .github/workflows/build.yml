@@ -22,7 +22,7 @@ jobs:
           poetry env use "3.10"
 
       - name: Install packages
-        run: make install
+        run: make deps
       - name: Build files
         run: make clean build
       - name: Upload changes
