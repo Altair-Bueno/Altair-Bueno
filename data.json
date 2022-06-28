@@ -15,6 +15,7 @@
     "Mail": "mailto:business.altair.bueno@outlook.com",
     "Resume": "https://github.com/Altair-Bueno/resume/releases/download/latest/resume.pdf"
   },
+  "height": "35px",
   "known-tools": [
     {
       "name": "Rust",
