@@ -57,6 +57,14 @@ I'm Altair, a Software Engineering student at UMA
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" height="35px" src=".github/resources/ts.svg">
   </a>
+  <!--Deno-->
+  <a href="https://deno.land">
+    <img alt="Deno" height="35px" src=".github/resources/deno.svg">
+  </a>
+  <!--Open API-->
+  <a href="https://www.openapis.org">
+    <img alt="Open API" height="35px" src=".github/resources/openapi.svg">
+  </a>
   <!--Docker-->
   <a href="https://www.docker.com/">
     <img alt="Docker" height="35px" src=".github/resources/docker.png">
