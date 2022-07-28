@@ -63,6 +63,16 @@
       "icon": ".github/resources/ts.svg"
     },
     {
+      "name": "Deno",
+      "link": "https://deno.land",
+      "icon": ".github/resources/deno.svg"
+    },
+    {
+      "name": "Open API",
+      "link": "https://www.openapis.org",
+      "icon": ".github/resources/openapi.svg"
+    },
+    {
       "name": "Docker",
       "link": "https://www.docker.com/",
       "icon": ".github/resources/docker.png"
