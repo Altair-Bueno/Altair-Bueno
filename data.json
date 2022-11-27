@@ -59,6 +59,11 @@
       "icon": ".github/resources/python.png"
     },
     {
+      "name": "FastAPI",
+      "link": "https://fastapi.tiangolo.com",
+      "icon": ".github/resources/fastapi.svg"
+    },
+    {
       "name": "TypeScript",
       "link": "https://www.typescriptlang.org/",
       "icon": ".github/resources/ts.svg"
@@ -107,28 +112,23 @@
       "name": "UNIX OS",
 
       "icon": ".github/resources/unixtermpng.png"
-    }
-  ],
-  "learn-next": [
+    },
     {
       "name": "Kubernetes",
       "link": "https://kubernetes.io/",
       "icon": ".github/resources/kubernetes.svg"
-    },
+    }
+  ],
+  "learn-next": [
     {
       "name": "Apache Kafka",
       "link": "https://kafka.apache.org/",
       "icon": ".github/resources/kafka.png"
     },
     {
-      "name": "GraphQL",
-      "link": "https://graphql.org/",
-      "icon": ".github/resources/graphql.png"
-    },
-    {
-      "name": "Hasura",
-      "link": "https://hasura.io/",
-      "icon": ".github/resources/hasura.svg"
+      "name": "Apache Pulsar",
+      "link": "https://pulsar.apache.org",
+      "icon": ".github/resources/pulsar.png"
     },
     {
       "name": "Elixir",
@@ -139,6 +139,16 @@
       "name": "Scala",
       "link": "https://www.scala-lang.org/",
       "icon": ".github/resources/scala.png"
+    },
+    {
+      "name": "Function Mesh",
+      "link": "https://functionmesh.io/",
+      "icon": ".github/resources/functions_mesh.svg"
+    },
+    {
+      "name": "OpenFaaS",
+      "link": "https://www.openfaas.com",
+      "icon": ".github/resources/openfaas.png"
     }
   ]
 }
