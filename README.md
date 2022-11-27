@@ -77,6 +77,10 @@ I'm Altair, a Software Engineering student at UMA
   <a href="https://www.docker.com/">
     <img alt="Docker" height="35px" src=".github/resources/docker.png">
   </a>
+  <!--Kubernetes-->
+  <a href="https://kubernetes.io/">
+    <img alt="Kubernetes" height="35px" src=".github/resources/kubernetes.svg">
+  </a>
   <!--JetBrains Tools-->
   <a href="https://www.jetbrains.com">
     <img alt="JetBrains Tools" height="35px" src=".github/resources/jetbrains.png">
@@ -100,10 +104,6 @@ I'm Altair, a Software Engineering student at UMA
   <!--UNIX OS-->
   <a href="">
     <img alt="UNIX OS" height="35px" src=".github/resources/unixtermpng.png">
-  </a>
-  <!--Kubernetes-->
-  <a href="https://kubernetes.io/">
-    <img alt="Kubernetes" height="35px" src=".github/resources/kubernetes.svg">
   </a>
 </div>
 
