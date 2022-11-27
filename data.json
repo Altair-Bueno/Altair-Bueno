@@ -89,6 +89,11 @@
       "icon": ".github/resources/docker.png"
     },
     {
+      "name": "Kubernetes",
+      "link": "https://kubernetes.io/",
+      "icon": ".github/resources/kubernetes.svg"
+    },
+    {
       "name": "JetBrains Tools",
       "link": "https://www.jetbrains.com",
       "icon": ".github/resources/jetbrains.png"
@@ -117,11 +122,6 @@
       "name": "UNIX OS",
 
       "icon": ".github/resources/unixtermpng.png"
-    },
-    {
-      "name": "Kubernetes",
-      "link": "https://kubernetes.io/",
-      "icon": ".github/resources/kubernetes.svg"
     }
   ],
   "learn-next": [
