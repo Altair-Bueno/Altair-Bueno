@@ -112,7 +112,7 @@ I'm Altair, a Software Engineering student at UMA
   </a>
   <!--Apache Pulsar-->
   <a href="https://pulsar.apache.org">
-    <img alt="Apache Pulsar" height="35px" src=".github/resources/pulsar.png">
+    <img alt="Apache Pulsar" height="35px" src=".github/resources/pulsar.svg">
   </a>
   <!--Elixir-->
   <a href="https://elixir-lang.org/">
