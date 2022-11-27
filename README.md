@@ -53,6 +53,10 @@ I'm Altair, a Software Engineering student at UMA
   <a href="https://www.python.org/">
     <img alt="Python" height="35px" src=".github/resources/python.png">
   </a>
+  <!--FastAPI-->
+  <a href="https://fastapi.tiangolo.com">
+    <img alt="FastAPI" height="35px" src=".github/resources/fastapi.svg">
+  </a>
   <!--TypeScript-->
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" height="35px" src=".github/resources/ts.svg">
@@ -93,26 +97,22 @@ I'm Altair, a Software Engineering student at UMA
   <a href="">
     <img alt="UNIX OS" height="35px" src=".github/resources/unixtermpng.png">
   </a>
+  <!--Kubernetes-->
+  <a href="https://kubernetes.io/">
+    <img alt="Kubernetes" height="35px" src=".github/resources/kubernetes.svg">
+  </a>
 </div>
 
 ## Learn next
 
 <div>
-  <!--Kubernetes-->
-  <a href="https://kubernetes.io/">
-    <img alt="Kubernetes" height="35px" src=".github/resources/kubernetes.svg">
-  </a>
   <!--Apache Kafka-->
   <a href="https://kafka.apache.org/">
     <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
   </a>
-  <!--GraphQL-->
-  <a href="https://graphql.org/">
-    <img alt="GraphQL" height="35px" src=".github/resources/graphql.png">
-  </a>
-  <!--Hasura-->
-  <a href="https://hasura.io/">
-    <img alt="Hasura" height="35px" src=".github/resources/hasura.svg">
+  <!--Apache Pulsar-->
+  <a href="https://pulsar.apache.org">
+    <img alt="Apache Pulsar" height="35px" src=".github/resources/pulsar.png">
   </a>
   <!--Elixir-->
   <a href="https://elixir-lang.org/">
@@ -121,5 +121,13 @@ I'm Altair, a Software Engineering student at UMA
   <!--Scala-->
   <a href="https://www.scala-lang.org/">
     <img alt="Scala" height="35px" src=".github/resources/scala.png">
+  </a>
+  <!--Function Mesh-->
+  <a href="https://functionmesh.io/">
+    <img alt="Function Mesh" height="35px" src=".github/resources/functions_mesh.svg">
+  </a>
+  <!--OpenFaaS-->
+  <a href="https://www.openfaas.com">
+    <img alt="OpenFaaS" height="35px" src=".github/resources/openfaas.png">
   </a>
 </div>
