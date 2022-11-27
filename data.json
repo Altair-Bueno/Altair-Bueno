@@ -69,6 +69,11 @@
       "icon": ".github/resources/ts.svg"
     },
     {
+      "name": "Svelte",
+      "link": "https://svelte.dev",
+      "icon": ".github/resources/svelte.svg"
+    },
+    {
       "name": "Deno",
       "link": "https://deno.land",
       "icon": ".github/resources/deno.svg"
