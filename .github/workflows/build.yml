@@ -24,9 +24,6 @@ jobs:
             ~/.deno
             ~/.cache/deno
           key: ${{ runner.os }}-deno@${{ matrix.deno-version }}-${{ hashFiles('**/deps.ts') }}
-
-      - name: Install packages
-        run: make deps
       - name: Build files
         run: make clean build
       - name: Upload changes
