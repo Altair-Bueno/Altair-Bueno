@@ -1,4 +1,3 @@
-#!/usr/bin/env deno run --allow-read=. --allow-write=. --no-check --no-config --no-lock --no-prompt
 /**
  * Compile Handlebars templates using Deno
  * 
