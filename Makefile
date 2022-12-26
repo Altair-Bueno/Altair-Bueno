@@ -12,4 +12,4 @@ deps:
 	deno cache $(MUSTACHE_CC)
 
 %: %.hbs $(DATA_FILE) $(MUSTACHE_CC) 
-	$(MUSTACHE_CC) $(MUSTACHE_CCFLAGS) -d $(DATA_FILE) $< > $@
+	$(MUSTACHE_CC) $(MUSTACHE_CCFLAGS) -d $(DATA_FILE) -o $@ $< 

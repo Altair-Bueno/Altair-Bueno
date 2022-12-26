@@ -1,4 +1,4 @@
-#!/usr/bin/env deno run --allow-read=. --no-check --no-config --no-lock --no-prompt -q
+#!/usr/bin/env deno run --allow-read=. --allow-write=. --no-check --no-config --no-lock --no-prompt
 /**
  * Compile Handlebars templates using Deno
  * 
@@ -19,6 +19,7 @@ if (args.h || args.help) {
   console.table({
     "-h, --help": "Print this help",
     "-d DATA": "Input data. Must be valid JSON",
+    "-o FILE": "Output file",
     // https://handlebarsjs.com/api-reference/compilation.html#handlebars-compile-template-options
     "--hbs.OPTION=VALUE": "Pass `OPTION` to Handlebars",
     FILES: "List of files to compile with Handlebars",
@@ -51,4 +52,9 @@ const tasksPromises = args._.map(async (templatePath: string) => {
 });
 
 const results = await Promise.all(tasksPromises);
-console.log(...results);
+if (args.o) {
+  const content = results.join("\n")
+  await Deno.writeTextFile(args.o, content)
+} else {
+  console.log(...results);
+}
