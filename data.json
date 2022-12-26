@@ -1,6 +1,15 @@
 {
   "title": "Hello, world!",
-  "stats": "https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6&hide=Jupyter%20Notebook&theme=dracula",
+  "stats": {
+    "url": "https://github-readme-stats.vercel.app/api/top-langs/",
+    "searchParams": {
+      "username": "Altair-Bueno",
+      "layout": "compact",
+      "langs_count": 6,
+      "hide": "Jupyter Notebook",
+      "theme": "dracula"
+    }
+  },
   "content": {
     "description": "I'm Altair, a Software Engineering student at UMA",
     "keypoints": [
@@ -120,7 +129,7 @@
     },
     {
       "name": "UNIX OS",
-
+      "link": "",
       "icon": ".github/resources/unixtermpng.png"
     }
   ],

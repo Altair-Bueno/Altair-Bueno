@@ -3,23 +3,27 @@ on:
     paths:
       - Makefile
       - '*.json'
-      - '*.mustache'
+      - '*.hbs'
+      - '*.ts'
 
 jobs:
   build:
+    strategy:
+      matrix: 
+        deno-version: [ v1.x.x ]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install poetry
-        run: pipx install poetry
-      - uses: actions/setup-python@v4
+      - uses: denoland/setup-deno@v1
         with:
-          python-version: '3.10'
-          cache: 'poetry'
-      - name: Config poetry
-        run: |
-          poetry env use "3.10"
+          deno-version: ${{ matrix.deno-version }}
+      - uses: actions/cache@v3
+        with:
+          path: |
+            ~/.deno
+            ~/.cache/deno
+          key: ${{ runner.os }}-deno@${{ matrix.deno-version }}-${{ hashFiles('**/deps.ts') }}
 
       - name: Install packages
         run: make deps

@@ -1,6 +1,6 @@
 DATA_FILE        = data.json
-MUSTACHE_CC      = poetry run chevron
-MUSTACHE_CCFLAGS = -w
+MUSTACHE_CC      = ./hbs.ts
+MUSTACHE_CCFLAGS = --hbs.noEscape --hbs.strict
 TARGET           = README.md
 
 .PHONY: install build clean
@@ -9,7 +9,7 @@ build: $(TARGET)
 clean:
 	rm -f $(TARGET)
 deps:
-	poetry install
+	deno cache $(MUSTACHE_CC)
 
-%: $(DATA_FILE) %.mustache
-	$(MUSTACHE_CC) $(MUSTACHE_CCFLAGS) -d $^ > $@
+%: %.hbs $(DATA_FILE) $(MUSTACHE_CC) 
+	$(MUSTACHE_CC) $(MUSTACHE_CCFLAGS) -d $(DATA_FILE) $< > $@
