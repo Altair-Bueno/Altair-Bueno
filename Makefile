@@ -5,8 +5,8 @@ DENO_CC          = --allow-read=. \
 				   --allow-write=. \
 				   --no-check \
 				   --no-config \
-				   --no-lock 
-
+				   --no-lock \
+				   --no-prompt
 MUSTACHE_CCFLAGS = --hbs.noEscape --hbs.strict
 TARGET           = README.md
 
