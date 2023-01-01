@@ -1,13 +1,13 @@
 /**
  * Compile Handlebars templates using Deno
- * 
+ *
  * # Implementation details
- * 
+ *
  * Notice how we defer imports to improve startup performance
  */
 
 // Async imports
-const HandlebarsPromise = import("npm:handlebars")
+const HandlebarsPromise = import("npm:handlebars");
 
 // CLI
 import { parse } from "https://deno.land/std/flags/mod.ts";
@@ -52,8 +52,8 @@ const tasksPromises = args._.map(async (templatePath: string) => {
 
 const results = await Promise.all(tasksPromises);
 if (args.o) {
-  const content = results.join("\n")
-  await Deno.writeTextFile(args.o, content)
+  const content = results.join("\n");
+  await Deno.writeTextFile(args.o, content);
 } else {
   console.log(...results);
 }
