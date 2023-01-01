@@ -6,8 +6,10 @@
       "username": "Altair-Bueno",
       "layout": "compact",
       "langs_count": 6,
-      "hide": "Jupyter Notebook",
-      "theme": "dracula"
+      "exclude_repo": ["Demeter"],
+      "hide": ["Jupyter Notebook", "Vue"],
+      "hide_title": true,
+      "theme": "transparent"
     }
   },
   "content": {
