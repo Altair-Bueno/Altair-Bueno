@@ -6,7 +6,7 @@
   look decent
   -->
   <img align="right" width="40%" alt="Top Langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6&hide=Jupyter+Notebook&theme=dracula">
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6&exclude_repo=Demeter&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
 I'm Altair, a Software Engineering student at UMA
