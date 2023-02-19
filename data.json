@@ -15,7 +15,7 @@
   "content": {
     "description": "I'm Altair, a Software Engineering student at UMA",
     "keypoints": [
-      "Backend first developer",
+      "Backend nerd",
       "Fascinated by functional programming",
       "Focused on building fast & reliable software",
       "Interested in Microservices, Serverless and Distributed systems"
@@ -142,11 +142,6 @@
       "icon": ".github/resources/kafka.png"
     },
     {
-      "name": "Apache Pulsar",
-      "link": "https://pulsar.apache.org",
-      "icon": ".github/resources/pulsar.svg"
-    },
-    {
       "name": "Elixir",
       "link": "https://elixir-lang.org/",
       "icon": ".github/resources/elixir.png"
@@ -155,11 +150,6 @@
       "name": "Scala",
       "link": "https://www.scala-lang.org/",
       "icon": ".github/resources/scala.png"
-    },
-    {
-      "name": "Function Mesh",
-      "link": "https://functionmesh.io/",
-      "icon": ".github/resources/functions_mesh.svg"
     },
     {
       "name": "OpenFaaS",
