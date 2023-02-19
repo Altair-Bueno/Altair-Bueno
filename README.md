@@ -11,7 +11,7 @@
 
 I'm Altair, a Software Engineering student at UMA
 
-- Backend first developer
+- Backend nerd
 - Fascinated by functional programming
 - Focused on building fast & reliable software
 - Interested in Microservices, Serverless and Distributed systems
@@ -114,10 +114,6 @@ I'm Altair, a Software Engineering student at UMA
   <a href="https://kafka.apache.org/">
     <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
   </a>
-  <!--Apache Pulsar-->
-  <a href="https://pulsar.apache.org">
-    <img alt="Apache Pulsar" height="35px" src=".github/resources/pulsar.svg">
-  </a>
   <!--Elixir-->
   <a href="https://elixir-lang.org/">
     <img alt="Elixir" height="35px" src=".github/resources/elixir.png">
@@ -125,10 +121,6 @@ I'm Altair, a Software Engineering student at UMA
   <!--Scala-->
   <a href="https://www.scala-lang.org/">
     <img alt="Scala" height="35px" src=".github/resources/scala.png">
-  </a>
-  <!--Function Mesh-->
-  <a href="https://functionmesh.io/">
-    <img alt="Function Mesh" height="35px" src=".github/resources/functions_mesh.svg">
   </a>
   <!--OpenFaaS-->
   <a href="https://www.openfaas.com">
