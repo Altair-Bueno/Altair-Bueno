@@ -1,16 +1,12 @@
 /**
  * Compile Handlebars templates using Deno
  *
- * # Implementation details
- *
- * Notice how we defer imports to improve startup performance
  */
 
-// Async imports
-const HandlebarsPromise = import("npm:handlebars");
-
-// CLI
+import $temp from "npm:handlebars";
+const { default: Handlebars } = $temp;
 import { parse } from "https://deno.land/std/flags/mod.ts";
+
 const args = parse(Deno.args);
 
 if (args.h || args.help) {
@@ -26,8 +22,7 @@ if (args.h || args.help) {
   Deno.exit(0);
 }
 
-// Async JSON load
-const dataPromise = import(`${Deno.cwd()}/${args.d}`, {
+const { default: data } = await import(`${Deno.cwd()}/${args.d}`, {
   assert: { type: "json" },
 });
 
@@ -36,11 +31,7 @@ function urlEncode(obj: Record<string, string>): string {
   return new URLSearchParams(obj).toString();
 }
 
-// Handlebars setup
-const { default: Handlebars } = await HandlebarsPromise;
 Handlebars.registerHelper("urlEncode", urlEncode);
-// Data setup
-const { default: data } = await dataPromise;
 
 // Compile and run
 const tasksPromises = args._.map(async (templatePath: string) => {
