@@ -3,8 +3,7 @@
  *
  */
 
-import $temp from "npm:handlebars";
-const { default: Handlebars } = $temp;
+import Handlebars from "npm:handlebars";
 import { parse } from "https://deno.land/std/flags/mod.ts";
 
 const args = parse(Deno.args);
