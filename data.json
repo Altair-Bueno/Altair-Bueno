@@ -6,7 +6,7 @@
       "username": "Altair-Bueno",
       "layout": "compact",
       "langs_count": 6,
-      "exclude_repo": ["Demeter"],
+      "exclude_repo": ["Demeter", "videojuegos-uma"],
       "hide": ["Jupyter Notebook", "Vue"],
       "hide_title": true,
       "theme": "transparent"
