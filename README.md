@@ -73,6 +73,10 @@ I'm Altair, a Software Engineering student at UMA
   <a href="https://www.openapis.org">
     <img alt="Open API" height="35px" src=".github/resources/openapi.svg">
   </a>
+  <!--Apache Kafka-->
+  <a href="https://kafka.apache.org/">
+    <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
+  </a>
   <!--Docker-->
   <a href="https://www.docker.com/">
     <img alt="Docker" height="35px" src=".github/resources/docker.png">
@@ -110,20 +114,8 @@ I'm Altair, a Software Engineering student at UMA
 ## Learn next
 
 <div>
-  <!--Apache Kafka-->
-  <a href="https://kafka.apache.org/">
-    <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
-  </a>
   <!--Elixir-->
   <a href="https://elixir-lang.org/">
     <img alt="Elixir" height="35px" src=".github/resources/elixir.png">
-  </a>
-  <!--Scala-->
-  <a href="https://www.scala-lang.org/">
-    <img alt="Scala" height="35px" src=".github/resources/scala.png">
-  </a>
-  <!--OpenFaaS-->
-  <a href="https://www.openfaas.com">
-    <img alt="OpenFaaS" height="35px" src=".github/resources/openfaas.png">
   </a>
 </div>
