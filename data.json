@@ -95,6 +95,11 @@
       "icon": ".github/resources/openapi.svg"
     },
     {
+      "name": "Apache Kafka",
+      "link": "https://kafka.apache.org/",
+      "icon": ".github/resources/kafka.png"
+    },
+    {
       "name": "Docker",
       "link": "https://www.docker.com/",
       "icon": ".github/resources/docker.png"
@@ -137,24 +142,9 @@
   ],
   "learn-next": [
     {
-      "name": "Apache Kafka",
-      "link": "https://kafka.apache.org/",
-      "icon": ".github/resources/kafka.png"
-    },
-    {
       "name": "Elixir",
       "link": "https://elixir-lang.org/",
       "icon": ".github/resources/elixir.png"
-    },
-    {
-      "name": "Scala",
-      "link": "https://www.scala-lang.org/",
-      "icon": ".github/resources/scala.png"
-    },
-    {
-      "name": "OpenFaaS",
-      "link": "https://www.openfaas.com",
-      "icon": ".github/resources/openfaas.png"
     }
   ]
 }
