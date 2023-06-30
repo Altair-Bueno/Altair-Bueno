@@ -9,7 +9,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6&exclude_repo=Demeter%2Cvideojuegos-uma&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
-I'm Altair, a Software engineer from Málaga
+I'm Altair, a software engineer from Málaga
 
 - Backend nerd
 - Fascinated by functional programming
