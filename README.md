@@ -9,12 +9,12 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Bueno&layout=compact&langs_count=6&exclude_repo=Demeter%2Cvideojuegos-uma&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
-I'm Altair, a software engineer from Málaga
+I'm Altair, an embedded Linux engineer from Málaga
 
-- Backend nerd
-- Fascinated by functional programming
-- Focused on building fast & reliable software
-- Interested in Microservices, Serverless and Distributed systems
+- Building firmware for connected devices
+- Rust and C, focused on fast and reliable software
+- Making devices secure by design, from secure boot to signed updates
+- Enjoys hard embedded problems
 
 <br/>
 
@@ -29,53 +29,61 @@ I'm Altair, a software engineer from Málaga
   <a href="https://tokio.rs">
     <img alt="Tokio" height="35px" src=".github/resources/tokio.png">
   </a>
-  <!--Rocket-->
-  <a href="https://rocket.rs">
-    <img alt="Rocket" height="35px" src=".github/resources/rocket.png">
+  <!--C-->
+  <a href="https://en.cppreference.com/w/c">
+    <img alt="C" height="35px" src=".github/resources/c.svg">
   </a>
-  <!--Yew-->
-  <a href="https://yew.rs/">
-    <img alt="Yew" height="35px" src=".github/resources/yew.png">
-  </a>
-  <!--Java-->
-  <a href="https://www.oracle.com/java/">
-    <img alt="Java" height="35px" src=".github/resources/java.svg">
-  </a>
-  <!--Hibernate-->
-  <a href="https://hibernate.org/">
-    <img alt="Hibernate" height="35px" src=".github/resources/hibernate.svg">
-  </a>
-  <!--Spring-->
-  <a href="https://spring.io/">
-    <img alt="Spring" height="35px" src=".github/resources/spring.ico">
+  <!--CMake-->
+  <a href="https://cmake.org">
+    <img alt="CMake" height="35px" src=".github/resources/cmake.svg">
   </a>
   <!--Python-->
   <a href="https://www.python.org/">
     <img alt="Python" height="35px" src=".github/resources/python.png">
   </a>
-  <!--FastAPI-->
-  <a href="https://fastapi.tiangolo.com">
-    <img alt="FastAPI" height="35px" src=".github/resources/fastapi.svg">
-  </a>
   <!--TypeScript-->
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" height="35px" src=".github/resources/ts.svg">
   </a>
-  <!--Svelte-->
-  <a href="https://svelte.dev">
-    <img alt="Svelte" height="35px" src=".github/resources/svelte.svg">
+  <!--Linux-->
+  <a href="https://kernel.org">
+    <img alt="Linux" height="35px" src=".github/resources/linux.svg">
   </a>
-  <!--Deno-->
-  <a href="https://deno.land">
-    <img alt="Deno" height="35px" src=".github/resources/deno.svg">
+  <!--Yocto Project-->
+  <a href="https://www.yoctoproject.org">
+    <img alt="Yocto Project" height="35px" src=".github/resources/yocto.png">
   </a>
-  <!--Open API-->
-  <a href="https://www.openapis.org">
-    <img alt="Open API" height="35px" src=".github/resources/openapi.svg">
+  <!--systemd-->
+  <a href="https://systemd.io">
+    <img alt="systemd" height="35px" src=".github/resources/systemd.svg">
   </a>
-  <!--Apache Kafka-->
-  <a href="https://kafka.apache.org/">
-    <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
+  <!--D-Bus-->
+  <a href="https://www.freedesktop.org/wiki/Software/dbus/">
+    <img alt="D-Bus" height="35px" src=".github/resources/dbus.svg">
+  </a>
+  <!--BlueZ-->
+  <a href="https://www.bluez.org">
+    <img alt="BlueZ" height="35px" src=".github/resources/bluez.png">
+  </a>
+  <!--OSTree-->
+  <a href="https://ostreedev.github.io/ostree/">
+    <img alt="OSTree" height="35px" src=".github/resources/ostree.svg">
+  </a>
+  <!--U-Boot-->
+  <a href="https://u-boot.org">
+    <img alt="U-Boot" height="35px" src=".github/resources/uboot.svg">
+  </a>
+  <!--NXP-->
+  <a href="https://www.nxp.com">
+    <img alt="NXP" height="35px" src=".github/resources/nxp.png">
+  </a>
+  <!--FreeRTOS-->
+  <a href="https://www.freertos.org">
+    <img alt="FreeRTOS" height="35px" src=".github/resources/freertos.svg">
+  </a>
+  <!--MQTT-->
+  <a href="https://mqtt.org">
+    <img alt="MQTT" height="35px" src=".github/resources/mqtt.svg">
   </a>
   <!--Docker-->
   <a href="https://www.docker.com/">
@@ -85,13 +93,9 @@ I'm Altair, a software engineer from Málaga
   <a href="https://kubernetes.io/">
     <img alt="Kubernetes" height="35px" src=".github/resources/kubernetes.svg">
   </a>
-  <!--JetBrains Tools-->
-  <a href="https://www.jetbrains.com">
-    <img alt="JetBrains Tools" height="35px" src=".github/resources/jetbrains.png">
-  </a>
-  <!--Visual Studio Code-->
-  <a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" height="35px" src=".github/resources/code.png">
+  <!--Apache Kafka-->
+  <a href="https://kafka.apache.org/">
+    <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
   </a>
   <!--Git-->
   <a href="https://git-scm.com/">
@@ -100,6 +104,10 @@ I'm Altair, a software engineer from Málaga
   <!--GitHub-->
   <a href="https://github.com/">
     <img alt="GitHub" height="35px" src=".github/resources/github.png">
+  </a>
+  <!--GitLab-->
+  <a href="https://gitlab.com">
+    <img alt="GitLab" height="35px" src=".github/resources/gitlab.svg">
   </a>
   <!--Conventional commits-->
   <a href="https://www.conventionalcommits.org/">
@@ -114,8 +122,12 @@ I'm Altair, a software engineer from Málaga
 ## Learn next
 
 <div>
-  <!--Elixir-->
-  <a href="https://elixir-lang.org/">
-    <img alt="Elixir" height="35px" src=".github/resources/elixir.png">
+  <!--Zephyr-->
+  <a href="https://zephyrproject.org">
+    <img alt="Zephyr" height="35px" src=".github/resources/zephyr.svg">
+  </a>
+  <!--Embassy-->
+  <a href="https://embassy.dev">
+    <img alt="Embassy" height="35px" src=".github/resources/embassy.svg">
   </a>
 </div>

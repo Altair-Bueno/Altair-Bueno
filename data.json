@@ -6,19 +6,25 @@
       "username": "Altair-Bueno",
       "layout": "compact",
       "langs_count": 6,
-      "exclude_repo": ["Demeter", "videojuegos-uma"],
-      "hide": ["Jupyter Notebook", "Vue"],
+      "exclude_repo": [
+        "Demeter",
+        "videojuegos-uma"
+      ],
+      "hide": [
+        "Jupyter Notebook",
+        "Vue"
+      ],
       "hide_title": true,
       "theme": "transparent"
     }
   },
   "content": {
-    "description": "I'm Altair, a software engineer from Málaga",
+    "description": "I'm Altair, an embedded Linux engineer from Málaga",
     "keypoints": [
-      "Backend nerd",
-      "Fascinated by functional programming",
-      "Focused on building fast & reliable software",
-      "Interested in Microservices, Serverless and Distributed systems"
+      "Building firmware for connected devices",
+      "Rust and C, focused on fast and reliable software",
+      "Making devices secure by design, from secure boot to signed updates",
+      "Enjoys hard embedded problems"
     ]
   },
   "links": {
@@ -40,29 +46,14 @@
       "icon": ".github/resources/tokio.png"
     },
     {
-      "name": "Rocket",
-      "link": "https://rocket.rs",
-      "icon": ".github/resources/rocket.png"
+      "name": "C",
+      "link": "https://en.cppreference.com/w/c",
+      "icon": ".github/resources/c.svg"
     },
     {
-      "name": "Yew",
-      "link": "https://yew.rs/",
-      "icon": ".github/resources/yew.png"
-    },
-    {
-      "name": "Java",
-      "link": "https://www.oracle.com/java/",
-      "icon": ".github/resources/java.svg"
-    },
-    {
-      "name": "Hibernate",
-      "link": "https://hibernate.org/",
-      "icon": ".github/resources/hibernate.svg"
-    },
-    {
-      "name": "Spring",
-      "link": "https://spring.io/",
-      "icon": ".github/resources/spring.ico"
+      "name": "CMake",
+      "link": "https://cmake.org",
+      "icon": ".github/resources/cmake.svg"
     },
     {
       "name": "Python",
@@ -70,34 +61,59 @@
       "icon": ".github/resources/python.png"
     },
     {
-      "name": "FastAPI",
-      "link": "https://fastapi.tiangolo.com",
-      "icon": ".github/resources/fastapi.svg"
-    },
-    {
       "name": "TypeScript",
       "link": "https://www.typescriptlang.org/",
       "icon": ".github/resources/ts.svg"
     },
     {
-      "name": "Svelte",
-      "link": "https://svelte.dev",
-      "icon": ".github/resources/svelte.svg"
+      "name": "Linux",
+      "link": "https://kernel.org",
+      "icon": ".github/resources/linux.svg"
     },
     {
-      "name": "Deno",
-      "link": "https://deno.land",
-      "icon": ".github/resources/deno.svg"
+      "name": "Yocto Project",
+      "link": "https://www.yoctoproject.org",
+      "icon": ".github/resources/yocto.png"
     },
     {
-      "name": "Open API",
-      "link": "https://www.openapis.org",
-      "icon": ".github/resources/openapi.svg"
+      "name": "systemd",
+      "link": "https://systemd.io",
+      "icon": ".github/resources/systemd.svg"
     },
     {
-      "name": "Apache Kafka",
-      "link": "https://kafka.apache.org/",
-      "icon": ".github/resources/kafka.png"
+      "name": "D-Bus",
+      "link": "https://www.freedesktop.org/wiki/Software/dbus/",
+      "icon": ".github/resources/dbus.svg"
+    },
+    {
+      "name": "BlueZ",
+      "link": "https://www.bluez.org",
+      "icon": ".github/resources/bluez.png"
+    },
+    {
+      "name": "OSTree",
+      "link": "https://ostreedev.github.io/ostree/",
+      "icon": ".github/resources/ostree.svg"
+    },
+    {
+      "name": "U-Boot",
+      "link": "https://u-boot.org",
+      "icon": ".github/resources/uboot.svg"
+    },
+    {
+      "name": "NXP",
+      "link": "https://www.nxp.com",
+      "icon": ".github/resources/nxp.png"
+    },
+    {
+      "name": "FreeRTOS",
+      "link": "https://www.freertos.org",
+      "icon": ".github/resources/freertos.svg"
+    },
+    {
+      "name": "MQTT",
+      "link": "https://mqtt.org",
+      "icon": ".github/resources/mqtt.svg"
     },
     {
       "name": "Docker",
@@ -110,14 +126,9 @@
       "icon": ".github/resources/kubernetes.svg"
     },
     {
-      "name": "JetBrains Tools",
-      "link": "https://www.jetbrains.com",
-      "icon": ".github/resources/jetbrains.png"
-    },
-    {
-      "name": "Visual Studio Code",
-      "link": "https://code.visualstudio.com/",
-      "icon": ".github/resources/code.png"
+      "name": "Apache Kafka",
+      "link": "https://kafka.apache.org/",
+      "icon": ".github/resources/kafka.png"
     },
     {
       "name": "Git",
@@ -128,6 +139,11 @@
       "name": "GitHub",
       "link": "https://github.com/",
       "icon": ".github/resources/github.png"
+    },
+    {
+      "name": "GitLab",
+      "link": "https://gitlab.com",
+      "icon": ".github/resources/gitlab.svg"
     },
     {
       "name": "Conventional commits",
@@ -142,9 +158,14 @@
   ],
   "learn-next": [
     {
-      "name": "Elixir",
-      "link": "https://elixir-lang.org/",
-      "icon": ".github/resources/elixir.png"
+      "name": "Zephyr",
+      "link": "https://zephyrproject.org",
+      "icon": ".github/resources/zephyr.svg"
+    },
+    {
+      "name": "Embassy",
+      "link": "https://embassy.dev",
+      "icon": ".github/resources/embassy.svg"
     }
   ]
 }

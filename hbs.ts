@@ -22,7 +22,7 @@ if (args.h || args.help) {
 }
 
 const { default: data } = await import(`${Deno.cwd()}/${args.d}`, {
-  assert: { type: "json" },
+  with: { type: "json" },
 });
 
 // Helpers
